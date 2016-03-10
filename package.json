@@ -1,0 +1,19 @@
+
+{
+  "name": "landingpage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "landingPage.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.13.3",
+    "express": "^4.13.3"
+  },
+  "devDependencies": {
+    "jquery": "^2.2.1"
+  }
+}
